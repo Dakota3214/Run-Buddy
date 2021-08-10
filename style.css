@@ -65,7 +65,7 @@ section {
 }
 /* Footer End */
 
-/* Hero Style Start */
+/* Homepage Hero Style Start */
 .hero {
     background-image: url("../run-buddy/images/hero-bg.jpg");
     height: 600px;
@@ -73,7 +73,7 @@ section {
     background-position: center;
     position: relative;
 }
-/* Hero Style End */
+/* Homepage Hero Style End */
 
 /* Hero Form Start*/
 .hero-form {
@@ -114,6 +114,7 @@ section {
     font-size: 16px;
 }
 /* Hero Form End*/
+
 
 /* Intro "What We Do" Start*/
 .intro {
